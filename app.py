@@ -4,8 +4,8 @@ import streamlit as st
 #os.system('pip install openai==0.28')
 import subprocess
 import pip
-pip.main(['install', 'openai'])
-subprocess.check_call(["pip", "install", "openai"])
+pip.main(['install', 'openai==0.28'])
+subprocess.check_call(["pip", "install", "openai==0.28"])
 import openai
 
 os.environ['OPENAI_API_KEY'] = apikey
