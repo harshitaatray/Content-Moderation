@@ -1,11 +1,7 @@
 import os
 from apikey import apikey
 import streamlit as st
-from langchain.llms import OpenAI
-import tiktoken
-import gradio as gr
 import openai
-import time
 
 os.environ['OPENAI_API_KEY'] = apikey
 
