@@ -8,7 +8,7 @@ os.environ['OPENAI_API_KEY'] = apikey
 # Set your OpenAI API key
 openai.api_key = apikey        
 
-st.title("Spiral Demo")
+st.title("Content Moderation App")
 
 # Get the prompt from the user
 prompt = st.text_area("Enter your thoughts:")
