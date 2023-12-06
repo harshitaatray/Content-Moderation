@@ -1,7 +1,7 @@
 import os
 from apikey import apikey
 import streamlit as st
-pip install openai
+os.system('pip install openai')
 import openai
 
 os.environ['OPENAI_API_KEY'] = apikey
