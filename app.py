@@ -1,7 +1,7 @@
 import os
 from apikey import apikey
 import streamlit as st
-#os.system('pip install openai==0.28')
+#os.system('pip install openai==0.28.1')
 import subprocess
 import pip
 pip.main(['install', 'openai==0.28'])
