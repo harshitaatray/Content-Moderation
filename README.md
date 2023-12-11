@@ -1,4 +1,4 @@
 # Content-Moderation
 Content moderation using OpenAI Moderation API
 
-![App demo](http://url/to/img.png)
+![App demo](https://github.com/harshitaatray/Content-Moderation/blob/main/Moderation.jpeg)
